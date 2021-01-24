@@ -45,7 +45,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value=""/>
+        </properties>
       </component>
       <component id="df7ef" class="javax.swing.JButton" binding="doneButton" default-binding="true">
         <constraints>
